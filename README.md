@@ -13,4 +13,4 @@ The pipeline consists of three main scripts that need to be executed sequentiall
 2. **`main2.py`**: After running **findPOTATOs**, execute this script to generate a `.csv` file that characterizes the moving sources (tracklets).
 3. **`main3.py`**: The third script generates images, GIFs, and a statistical summary of the findings.
 
-![pipelineStructure_image](PipelineStructure_.PNG)
+![pipelineStructure_image](PipelineStructure_.png)
