@@ -4,3 +4,5 @@ This pipeline is designed to search for asteroids during twilight periods. It au
 
 ![asteroids_example](asteroids_example.PNG)
 
+## Structure of the pipeline
+
